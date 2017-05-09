@@ -78,7 +78,7 @@ Accept: application/json
 
 {
 "description": "Simple recommendations model",
-"baseContainerSasUri": "https://luiscareco.blob.core.windows.net/input-files?st=2017-03-14T11%3A07%3A00Z&se=2018-03-16T11%3A07%3A00Z&sp=rwdl&sv=2015-12-11&sr=c&sig=ztvAyzQqUCPLQ7gDGGz9x0pNnfu8TKD9HSG5EDp9C0w%3D",
+"baseContainerSasUri": "https://myreco.blob.core.windows.net/input-files?st=2017-03-14T11%3A07%3A00Z&se=2018-03-16T11%3A07%3A00Z&sp=rwdl&sv=2015-12-11&sr=c&sig=ztvAyzQqUCPLQ7gDGGz9x0pNnfu8TKD9HSG5EDp9C0w%3D",
 "trainCatalogFileRelativeLocation": "books.csv",
 "trainUsageFolderRelativeLocation": "booksusage",
 "supportThreshold": 6,
